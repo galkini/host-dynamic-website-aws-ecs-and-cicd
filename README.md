@@ -1,4 +1,4 @@
-![Alt text](/Dynamic_website_on_ECS_CI_CD implementation.png)
+![Alt text](/Dynamic_website_on_ECS_CI_CD_implementation.png)
 
 I hosted a a dynamis Website on AWS with docker containers, ECS and ECR for a DevOps project. Have created CICD Pipeline with GitHub Actions to implement workflow from the moment that developer pushes and update to the GitHub repository, till the moment the updated AWS infrastructure, and Web application are up and running.
 
